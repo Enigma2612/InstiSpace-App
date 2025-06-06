@@ -1,6 +1,6 @@
 import openai
 
-gkey = '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'
+gkey = 'MY VERY SECRET KEY'
 client = openai.OpenAI(api_key=gkey, base_url='https://api.groq.com/openai/v1')
 
 with open("dummy_emails.txt") as f:

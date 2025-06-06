@@ -1,38 +1,32 @@
 [{
 "sender": "narendra.mistry@students.ietdavv.edu.in",
 "subject": "Urgent: Submit your project reports by 5 PM today",
-"body": "Dear students, This is a reminder that all project groups are required to submit their project reports to their respective faculty 
-mentors by 5 PM today. Late submissions will not be accepted."
+"body": "Dear students, This is a reminder that all project groups are required to submit their project reports to their respective faculty mentors by 5 PM today. Late submissions will not be accepted."
 },
 {
 "sender": " placements@ietdavv.edu.in",
 "subject": "Internship Opportunity with Infosys!",
-"body": "Dear students, We are excited to announce an internship opportunity with Infosys for our students. Interested students can apply through 
-the college's career portal. The last date to apply is 20th February."
+"body": "Dear students, We are excited to announce an internship opportunity with Infosys for our students. Interested students can apply through the college's career portal. The last date to apply is 20th February."
 },
 {
 "sender": "support@itechfest.com",
-"body": "Hey techies! We're hosting a hackathon on 1st March, where you can showcase your coding skills and win exciting prizes. Register now on 
-our website!"
+"body": "Hey techies! We're hosting a hackathon on 1st March, where you can showcase your coding skills and win exciting prizes. Register now on our website!"
 "subject": "Join our Hackathon on 1st March"
 },
 {
 "sender": "alumni@ietdavv.edu.in",
 "subject": "Alumni Meet on 25th February",
-"body": "Dear students, We're organizing an alumni meet on 25th February, where you can interact with our esteemed alumni and learn about their 
-experiences. The event will be held in the auditorium from 2 PM to 5 PM."
+"body": "Dear students, We're organizing an alumni meet on 25th February, where you can interact with our esteemed alumni and learn about their experiences. The event will be held in the auditorium from 2 PM to 5 PM."
 },
 {
 "sender": "naina.gupta@students.ietdavv.edu.in",
 "subject": "Part-time job opportunity",
-"body": "Hey friends! I know a few people who are looking for part-time jobs. If you're interested, please reply to this email and I'll forward your 
-details."
+"body": "Hey friends! I know a few people who are looking for part-time jobs. If you're interested, please reply to this email and I'll forward your details."
 },
 {
 "sender": "academics@ietdavv.edu.in",
 "subject": "Important notice regarding attendance",
-"body": "Dear students, This is to inform you that the attendance sheet has been uploaded on the college's website. Please check your attendance and 
-report any discrepancies to the respective faculty members."
+"body": "Dear students, This is to inform you that the attendance sheet has been uploaded on the college's website. Please check your attendance and report any discrepancies to the respective faculty members."
 },
 {
 "sender": "marketing@ietechfest.com",
@@ -42,15 +36,13 @@ report any discrepancies to the respective faculty members."
 {
 "sender": " placementcell@ietdavv.edu.in",
 "subject": "Resume Building Workshop",
-"body": "Dear students, We're organizing a resume building workshop on 22nd February, where our industry experts will guide you on creating an 
-impressive resume. Register on our website to attend the event."
+"body": "Dear students, We're organizing a resume building workshop on 22nd February, where our industry experts will guide you on creating an impressive resume. Register on our website to attend the event."
 
 },
 {
 "sender": " events@ietdavv.edu.in",
 "subject": "Annual Cultural Festival on 28th February",
-"body": "Dear students, We're excited to announce our annual cultural festival, where you can showcase your talent in music, dance, drama, and more! 
-Register for the auditions now."
+"body": "Dear students, We're excited to announce our annual cultural festival, where you can showcase your talent in music, dance, drama, and more! Register for the auditions now."
 
 },
 {
@@ -68,21 +60,19 @@ Register for the auditions now."
 {
 "sender": "surbhi.gupta@students.ietdavv.edu.in",
 "subject": "Used books for sale",
-"subject": "Hey friends! I'm selling my used engineering books at a discounted rate. If anyone's interested, reply to this email!"
+"body": "Hey friends! I'm selling my used engineering books at a discounted rate. If anyone's interested, reply to this email!"
 
 },
 {
 "sender": "careeradvisory@ietdavv.edu.in",
 "subject": "Career Guidance Session on 17th February",
-"body": "Dear students, We're organizing a career guidance session on 17th February, where our industry experts will guide you on your career 
-choices. Register now to attend the session."
+"body": "Dear students, We're organizing a career guidance session on 17th February, where our industry experts will guide you on your career choices. Register now to attend the session."
 
 },
 {
 "sender": "alumni@ietdavv.edu.in",
 "subject": "Alumni Database Registration",
-"body": "Dear students, We request you to register yourself in our alumni database, which will enable you to stay connected with your alma mater 
-and receive updates on our events and activities."
+"body": "Dear students, We request you to register yourself in our alumni database, which will enable you to stay connected with your alma mater and receive updates on our events and activities."
 },
 {
 "sender": " unknown@spammer.com",

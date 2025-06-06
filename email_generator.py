@@ -1,6 +1,6 @@
 import openai
 
-gkey = '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'
+gkey = 'MY VERY SECRET GROQ KEY'
 client = openai.OpenAI(api_key=gkey, base_url='https://api.groq.com/openai/v1')
 
 prompt = '''Generate 15 fake emails from random fake accounts, with the following specifications:
